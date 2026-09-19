@@ -90,7 +90,9 @@ Contact   :  temudosys@proton.me
 | Cybersecurity Content Writer | regan.cybersechere.com | Nov 2022 |
 
 </td>
+
 <br>
+
 </tr>
 <tr>
 <td width="50%">
