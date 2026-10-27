@@ -117,7 +117,7 @@ Contact   :  temudosys@proton.me
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| **BTech: Cyber Security & Cyber Forensics** | Srinivas University Institute of Engineering & Technology, Mangalore | 2022 - 2026 |
+| **BTech: Cyber Security & Forensics Science** | Srinivas University Institute of Engineering & Technology, Mangalore | 2022 - 2026 |
 | **Vocational Studies: Computer Techniques** | Ramacrisa Madeva Salgaocar Higher School, Margao | 2020 - 2022 |
 
 ---
