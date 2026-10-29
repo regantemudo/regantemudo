@@ -85,7 +85,7 @@ Contact   :  temudosys@proton.me
 
 | Role | Company | Since |
 |------|---------|-------|
-| Chief Technology Officer | CyberSecHere | Apr 2023 |
+| IT Security Lead | CyberSecHere | Apr 2023 |
 | OSINT Researcher & Tech Writer | OSINT Team | Mar 2025 |
 | Cybersecurity Content Creator | Medium | Aug 2023 |
 | Cybersecurity Content Writer | regan.cybersechere.com | Nov 2022 |
