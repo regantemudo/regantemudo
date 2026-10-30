@@ -95,20 +95,6 @@ Contact   :  temudosys@proton.me
 <br>
 
 </tr>
-<tr>
-<td width="50%">
-
-**🔙 Past**
-
-| Role | Company | Period |
-|------|---------|--------|
-| Cyber Security Analyst *(Intern)* | Haztech | Jan-Feb 2026 |
-| Server Security Analyst *(Intern)* | Treztec Consulting | Jul-Aug 2024 |
-| Server Security Analyst *(Intern)* | Treztec Consulting | Dec 2023-Jan 2024 |
-| CTF Creator | Let's Exploit | Feb–Jun 2023 |
-
-</td>
-</tr>
 </table>
 
 ---
