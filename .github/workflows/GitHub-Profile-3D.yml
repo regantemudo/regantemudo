@@ -23,9 +23,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-
-
-
-name: git-profile-koi
-  uses: yalongwastaken/git-koi@v1.0.2
-
