@@ -75,39 +75,6 @@ Contact   :  temudosys@proton.me
 
 ---
 
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%">
-
-**🔎 Current**
-
-| Role | Company | Since |
-|------|---------|-------|
-| IT Security Lead | CyberSecHere | Apr 2023 |
-| OSINT Researcher & Tech Writer | OSINT Team | Mar 2025 |
-| Cybersecurity Content Creator | Medium | Aug 2023 |
-| Cybersecurity Content Writer | regan.cybersechere.com | Nov 2022 |
-
-</td>
-
-<br>
-
-</tr>
-</table>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| **BTech: Cyber Security & Forensics Science** | Srinivas University Institute of Engineering & Technology, Mangalore | 2022 - 2026 |
-| **Vocational Studies: Computer Techniques** | Ramacrisa Madeva Salgaocar Higher School, Margao | 2020 - 2022 |
-
----
-
 ## 🚀 Currently
 
 ```
